@@ -1,7 +1,6 @@
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
 
 ASSISTANT_ID = "asst_wMoF5ChP2bZCsincck9Ksflk"
 
